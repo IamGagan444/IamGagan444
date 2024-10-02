@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **DSA, MERN**
 
-- 💬 Ask me about **DSA,CSS,HTML,JS & REACT**
+- 💬 Ask me about **MERN STACK**
 
-- 📫 How to reach me **gaganpalai537@gmail.com**
+- 📫 How to reach me **gaganjobs09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
