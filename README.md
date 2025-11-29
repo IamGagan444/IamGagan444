@@ -1,29 +1,109 @@
-<h1 align="center">Hi 👋, I'm Gagan pallai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Gagan Pallai</h1>
+<h3 align="center">Senior Frontend Developer & Backend Engineer | AI & SaaS Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamgagan444&label=Profile%20views&color=0e75b6&style=flat" alt="iamgagan444" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamgagan444" alt="iamgagan444" /></a> </p>
-
-- 🔭 I’m currently working on **portfolio**
-
-- 🌱 I’m currently learning **DSA, MERN**
-
-- 💬 Ask me about **MERN STACK**
-
-- 📫 How to reach me **gaganjobs09@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gagan pallai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagan pallai" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_gagan_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_gagan_2003" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:gaganjobs09@gmail.com">gaganjobs09@gmail.com</a> •
+  <a href="https://github.com/IamGagan444">GitHub</a> •
+  <a href="https://linkedin.com/in/gagan-pallai">LinkedIn</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamgagan444&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamgagan444&show_icons=true&locale=en&layout=compact" alt="iamgagan444" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamgagan444&show_icons=true&locale=en" alt="iamgagan444" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamgagan444&" alt="iamgagan444" /></p>
+I’m a **Senior Frontend Developer & Backend Engineer** with real-world experience building **AI-powered SaaS platforms, video editing tools, and scalable education systems**.  
+I focus on **clean architecture, performance, and real product engineering — not tutorial projects**.
+
+Currently working on:
+- 🎬 **Scene-based video editing platform (AI assisted)**
+- 🧠 **AI-powered education platform**
+
+---
+
+## 💼 Current Roles
+
+### **Senior Frontend Developer — Move37 Ventures (Remote)**  
+**Feb 2025 – Present**
+- Built a **scene-based video editor** with drag-and-drop timeline and storyboard system.
+- Developed **real-time text editors**, overlays, stickers, and video canvas interactions.
+- Implemented **AI-assisted asset generation**, music manager, and scene customization.
+- Built **aspect-ratio switching, duration control & live previews**.
+
+**Tech:** Next.js, TypeScript, TailwindCSS, Redux Toolkit, RTK Query
+
+---
+
+### **Backend Engineer — BrainStrata (Move37 Ventures) (Remote)**  
+**Feb 2025 – Present**
+- Designed **scalable backend architecture** for an AI learning platform.
+- Built APIs for **courses, lessons, onboarding & progress tracking**.
+- Implemented **AWS presigned uploads & secure authentication**.
+- Integrated **Gemini AI chatbot** for real-time learning assistance.
+
+**Tech:** Node.js, Express, Prisma, PostgreSQL, AWS
+
+---
+
+### **Senior React Developer — Nearo (Remote)**  
+**Jan 2023 – Apr 2024**
+- Built a **production-grade seller platform frontend**.
+- Implemented **Redux Toolkit state management**.
+- Delivered a fully responsive and scalable UI.
+
+**Tech:** React.js, Redux Toolkit, TailwindCSS, Material UI
+
+---
+
+## 🧠 Tech Stack
+
+### **Languages**
+- JavaScript, HTML, CSS, SQL
+
+### **Frameworks & Libraries**
+- React.js, Next.js, Redux Toolkit, Tailwind CSS, Material UI  
+- Express.js, Prisma, Zod, Auth.js  
+- WebSocket, OpenAI, Gemini AI
+
+### **Databases**
+- MongoDB, PostgreSQL, MySQL
+
+### **Tools & Platforms**
+- Git, NPM, Vite, Vercel, AWS, Cloudinary, Razorpay, Multer
+
+---
+
+## 🔥 What I Actually Do Well
+
+- ✅ Scalable Frontend Architecture  
+- ✅ Real-time Editors & Canvas Systems  
+- ✅ Video Tech & Media Pipelines  
+- ✅ AI Feature Integration  
+- ✅ Production API Design  
+- ✅ Authentication & Secure Uploads  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamgagan444&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamgagan444" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamgagan444&layout=compact" />
+</p>
+
+---
+
+## 📫 Contact
+- 📧 **Email:** gaganjobs09@gmail.com  
+- 🔗 **GitHub:** https://github.com/IamGagan444  
+- 💼 **LinkedIn:** https://linkedin.com/in/gagan-pallai
